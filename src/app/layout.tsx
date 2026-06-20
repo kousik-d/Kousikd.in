@@ -13,13 +13,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: " Kousik Dasari — iOS Engineer",
+  title: "Kousik Dasari — iOS Engineer",
   description:
     "The portfolio of Kousik Dasari, Software Engineer II & iOS Engineer. An interactive iOS-inspired experience showcasing work, impact, and craft.",
   authors: [{ name: "Kousik Dasari" }],
   keywords: ["iOS Engineer", "Swift", "SwiftUI", "iOS Components", "Kousik Dasari", "Portfolio"],
   openGraph: {
-    title: " Kousik Dasari — iOS Engineer",
+    title: "Kousik Dasari — iOS Engineer",
     description: "An interactive iOS-inspired portfolio OS.",
     type: "website",
   },
