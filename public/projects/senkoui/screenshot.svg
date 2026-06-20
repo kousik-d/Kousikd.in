@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 844" fill="none">
+  <rect width="390" height="844" fill="#0d0d16"/>
+  <text x="195" y="80" fill="white" font-family="system-ui,sans-serif" font-size="24" font-weight="700" text-anchor="middle">SenkoUI</text>
+  <text x="195" y="108" fill="white" fill-opacity="0.45" font-family="system-ui,sans-serif" font-size="13" text-anchor="middle">Component Gallery</text>
+  <rect x="24" y="140" width="342" height="120" rx="20" fill="white" fill-opacity="0.06"/>
+  <rect x="40" y="160" width="310" height="80" rx="12" fill="white" fill-opacity="0.1"/>
+  <text x="195" y="210" fill="white" fill-opacity="0.5" font-family="system-ui,sans-serif" font-size="12" text-anchor="middle">� Auto Scroll Carousel �</text>
+  <rect x="24" y="280" width="165" height="120" rx="20" fill="white" fill-opacity="0.06"/>
+  <circle cx="106" cy="340" r="36" fill="url(#av)"/>
+  <defs><linearGradient id="av" x1="70" y1="304" x2="142" y2="376"><stop stop-color="#6D5BFF"/><stop offset="1" stop-color="#BF5AF2"/></linearGradient></defs>
+  <rect x="201" y="280" width="165" height="120" rx="20" fill="white" fill-opacity="0.06"/>
+  <rect x="217" y="310" width="133" height="60" rx="10" fill="white" fill-opacity="0.15"/>
+  <rect x="24" y="420" width="342" height="200" rx="20" fill="#12121a"/>
+  <text x="44" y="450" fill="#BF5AF2" font-family="ui-monospace,monospace" font-size="12">import SenkoUI</text>
+  <text x="44" y="475" fill="white" fill-opacity="0.7" font-family="ui-monospace,monospace" font-size="12">AdaptiveImage(url: avatarURL)</text>
+  <text x="44" y="500" fill="white" fill-opacity="0.7" font-family="ui-monospace,monospace" font-size="12">  .placeholder(.shimmer)</text>
+  <text x="44" y="525" fill="white" fill-opacity="0.7" font-family="ui-monospace,monospace" font-size="12">  .cornerRadius(12)</text>
+</svg>

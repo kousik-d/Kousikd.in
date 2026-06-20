@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 844" fill="none">
+  <rect width="390" height="844" fill="#0a0f0a"/>
+  <text x="195" y="80" fill="white" font-family="system-ui,sans-serif" font-size="28" font-weight="700" text-anchor="middle">HBT</text>
+  <text x="195" y="110" fill="white" fill-opacity="0.45" font-family="system-ui,sans-serif" font-size="14" text-anchor="middle">Saturday, Jun 13</text>
+  <circle cx="195" cy="210" r="72" stroke="white" stroke-opacity="0.12" stroke-width="12" fill="none"/>
+  <circle cx="195" cy="210" r="72" stroke="#34C759" stroke-width="12" fill="none" stroke-dasharray="340" stroke-dashoffset="85" stroke-linecap="round" transform="rotate(-90 195 210)"/>
+  <text x="195" y="218" fill="white" font-family="system-ui,sans-serif" font-size="36" font-weight="700" text-anchor="middle">75%</text>
+  <text x="195" y="310" fill="white" fill-opacity="0.5" font-family="system-ui,sans-serif" font-size="13" text-anchor="middle">Today&apos;s Progress</text>
+  <rect x="24" y="340" width="342" height="64" rx="16" fill="white" fill-opacity="0.08"/>
+  <circle cx="52" cy="372" r="12" fill="#34C759"/>
+  <text x="72" y="368" fill="white" font-family="system-ui,sans-serif" font-size="15" font-weight="600">Morning Run</text>
+  <text x="72" y="388" fill="white" fill-opacity="0.45" font-family="system-ui,sans-serif" font-size="12">5.2 km - Done at 6:45 AM</text>
+  <rect x="24" y="416" width="342" height="64" rx="16" fill="white" fill-opacity="0.08"/>
+  <circle cx="52" cy="448" r="12" fill="#34C759"/>
+  <text x="72" y="444" fill="white" font-family="system-ui,sans-serif" font-size="15" font-weight="600">Read 30 min</text>
+  <text x="72" y="460" fill="white" fill-opacity="0.45" font-family="system-ui,sans-serif" font-size="12">Chapter 4 - Completed</text>
+  <rect x="24" y="492" width="342" height="64" rx="16" fill="white" fill-opacity="0.06"/>
+  <circle cx="52" cy="524" r="12" stroke="white" stroke-opacity="0.25" fill="none" stroke-width="2"/>
+  <text x="72" y="520" fill="white" fill-opacity="0.6" font-family="system-ui,sans-serif" font-size="15" font-weight="600">Meditate</text>
+  <text x="72" y="536" fill="white" fill-opacity="0.35" font-family="system-ui,sans-serif" font-size="12">10 min - Tap to complete</text>
+  <rect x="24" y="568" width="342" height="64" rx="16" fill="white" fill-opacity="0.06"/>
+  <circle cx="52" cy="600" r="12" stroke="white" stroke-opacity="0.25" fill="none" stroke-width="2"/>
+  <text x="72" y="596" fill="white" fill-opacity="0.6" font-family="system-ui,sans-serif" font-size="15" font-weight="600">Drink Water</text>
+  <text x="72" y="612" fill="white" fill-opacity="0.35" font-family="system-ui,sans-serif" font-size="12">6 / 8 glasses</text>
+</svg>

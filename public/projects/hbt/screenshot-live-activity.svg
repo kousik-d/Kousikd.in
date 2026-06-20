@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 844" fill="none">
+  <rect width="390" height="844" fill="#0a0f0a"/>
+  <text x="195" y="80" fill="white" font-family="system-ui,sans-serif" font-size="28" font-weight="700" text-anchor="middle">HBT</text>
+  <rect x="145" y="52" width="100" height="32" rx="16" fill="#000"/>
+  <rect x="16" y="100" width="358" height="72" rx="36" fill="#1c1c1e" stroke="#34C759" stroke-width="1"/>
+  <circle cx="48" cy="136" r="18" fill="#34C759" fill-opacity="0.25"/>
+  <path d="M42 136 L48 128 L54 136 L48 144 Z" fill="#34C759"/>
+  <text x="78" y="128" fill="white" font-family="system-ui,sans-serif" font-size="14" font-weight="600">Morning Run</text>
+  <text x="78" y="148" fill="white" fill-opacity="0.5" font-family="system-ui,sans-serif" font-size="11">Streak: 12 days - 3.8 / 5.0 km</text>
+  <rect x="280" y="120" width="80" height="32" rx="16" fill="#34C759" fill-opacity="0.2"/>
+  <text x="320" y="140" fill="#34C759" font-family="system-ui,sans-serif" font-size="12" font-weight="600" text-anchor="middle">76%</text>
+  <text x="195" y="260" fill="white" fill-opacity="0.4" font-family="system-ui,sans-serif" font-size="14" text-anchor="middle">Saturday, June 13</text>
+  <text x="195" y="330" fill="white" font-family="system-ui,sans-serif" font-size="72" font-weight="300" text-anchor="middle">7:53</text>
+  <rect x="24" y="380" width="342" height="56" rx="28" fill="#1c1c1e"/>
+  <path d="M38 414 L44 406 L50 414 L44 422 Z" fill="#34C759"/>
+  <text x="78" y="406" fill="white" font-family="system-ui,sans-serif" font-size="13" font-weight="600">Morning Run in progress</text>
+  <text x="78" y="424" fill="white" fill-opacity="0.45" font-family="system-ui,sans-serif" font-size="11">Tap to open HBT</text>
+  <text x="195" y="520" fill="white" fill-opacity="0.35" font-family="system-ui,sans-serif" font-size="13" text-anchor="middle">Live Activities keep habits visible</text>
+  <text x="195" y="542" fill="white" fill-opacity="0.35" font-family="system-ui,sans-serif" font-size="13" text-anchor="middle">on Lock Screen &amp; Dynamic Island</text>
+</svg>
